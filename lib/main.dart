@@ -13,6 +13,7 @@ class loginsignup extends StatefulWidget {
   _loginsignupState createState() => _loginsignupState();
 }
 
+// ignore: camel_case_types
 class _loginsignupState extends State<loginsignup> {
   @override
   Widget build(BuildContext context) {
